@@ -1,35 +1,40 @@
 <br />
-<br />
 
 <div align="center">
 
   <p align="center">
-    <a href="#">
-      <img src="https://raw.githubusercontent.com/kwenamokgohlwa/io-dino/master/static/images/logos/input-output-logo.svg" alt="io-input-output logo svg" width="160" height="160">
+    <a href="https://kwena.io/inputoutput">
+      <img src="https://raw.githubusercontent.com/kwenamokgohlwa/io-dino/master/static/images/logos/input-output-logo.svg" alt="io-input-output logo svg" width="480" height="auto">
     </a>
   </p>
 
-  <br />
   <br />
 
   <p align="center">
-    <a href="#">
-      <img src="https://raw.githubusercontent.com/kwenamokgohlwa/io-dino/master/static/images/logos/dino-logo.svg" alt="dino-io logo svg" width="80" height="80">
+    <a href="https://kwena.io/inputoutput/io-dino">
+      <img src="https://raw.githubusercontent.com/kwenamokgohlwa/io-dino/master/static/images/logos/dino-logo.svg" alt="dino-io logo svg" width="320" height="auto">
     </a>
   </p>
 
 </div>
+
 <br />
 
 <div algin="center">
+
   <h3 align="center">
     <b>
-      <a href="#">
-        Dino IO Park Monitoring Tool by IO Input Output
+      <a href="https://kwena.io/inputoutput/io-dino">
+        Dino.IO™ - Dino Park Monitoring Tool for Maintenance Teams IO Input Output Inc
+      </a>
+      <a href="https://kwena.io/inputoutput">
+        IO Input Output, Inc - Jarassic Apps.
       </a>
     </b>
   </h3>
+
 </div>
+
 <br />
 
 <!-- DOCUMENTATION -->
@@ -68,7 +73,7 @@ npm install
 
 3. From your Terminal - Install Gatsby CLI globally then Run the Development Environment.
 
-Gatsby is a framework built on top of React with essential features.
+Gatsby is a framework built on top of React with essential features that make life easier.
 
 ```
 npm install -g gatsby-cli

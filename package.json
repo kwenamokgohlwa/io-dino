@@ -1,7 +1,7 @@
 {
-  "name": "Dino Park",
-  "private": true,
-  "description": "A Dino Park Maintenance Monitoring Tool made with React",
+  "name": "Dino IO",
+  "private": false,
+  "description": "Dino Park Monitoring Tool for Maintenance Teams - React App.",
   "version": "0.1.0",
   "author": "Kwena Mokgohlwa <kwena@kwena.io>",
   "dependencies": {
