@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Dino Park`,
-    description: `A Moderna day Dino Park Mainetnance Monitoring Tool - Input Output Inc`,
-    author: `Kwena Mokgohlwa`,
+    title: `Dino.IO™`,
+    description: `Dino Park Monitoring Tool for Maintenance Teams.`,
+    author: `Kwena Mokgohlwa - IO Input Output, Inc.`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
