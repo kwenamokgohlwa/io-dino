@@ -42,13 +42,13 @@
 
 ## IO Input Output: Dino.IO™
 
-[![Ask Me: Anything !](https://img.shields.io/badge/Ask%20Me-anything-green.svg)](https://github.com/kwenamokgohlwa/ama)
-[![Made With: JavaScript](https://img.shields.io/badge/Made%20With-JavaScript-blue.svg)](https://www.javascript.com)
+[![Ask Me: Anything !](https://img.shields.io/badge/ask%20me-anything-green.svg)](https://github.com/kwenamokgohlwa/ama)
+[![Made With: JavaScript](https://img.shields.io/badge/made%20with-JavaScript-blue.svg)](https://www.javascript.com)
 
 ![Maintainer: Kwena Mokgohlwa](https://img.shields.io/badge/maintainer-kwenamokgohlwa-blue)
-[![Website shields.io](https://img.shields.io/Website-Up-Down-green-red/http/shields.io.svg)](http://shields.io/)
+[![Website: Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Version: Dev](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales venenatis sem eu blandit. Morbi rutrum eleifend erat, quis vehicula risus cursus at. Praesent tellus sem, congue id enim nec, placerat aliquet ipsum. Aliquam efficitur scelerisque rutrum. Nulla sit amet euismod erat, id tempus libero. Sed in aliquam neque, commodo ornare dolor. Fusce tincidunt facilisis est, ut bibendum massa bibendum ut.
