@@ -25,8 +25,9 @@
   <h3 align="center">
     <b>
       <a href="https://kwena.io/inputoutput/io-dino">
-        Dino.IO™ - Dino Park Monitoring Tool for Maintenance Teams IO Input Output Inc
+        Dino.IO™ - Dino Park Monitoring Tool for Maintenance Teams
       </a>
+      <br />
       <a href="https://kwena.io/inputoutput">
         IO Input Output, Inc - Jarassic Apps.
       </a>
