@@ -29,7 +29,7 @@
       </a>
       <br />
       <a href="https://kwena.io/inputoutput">
-        IO Input Output, Inc. - Jarassic Apps.
+        IO Input Output, Inc. - "Jarassic Apps".
       </a>
     </b>
   </h3>
