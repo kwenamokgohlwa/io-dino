@@ -7,10 +7,10 @@ function IndexPage() {
   return (
     <Layout>
       <SEO title="IO Input Output - Jarassic Systems" />
-      <img src="/images/logos/input-output-logo-mark.svg" alt="input-output-logo" />
+      <img src="/images/logos/input-output-logo-mark.svg" alt="input-output-logo" width="480" height="auto"/>
       <h1>IO Input Output: Jarassic Systems</h1>
       <p>We have just launched our latest addition to our family of products, Dino.IO</p>
-      <Link to="/page-2/">Dino.IO</Link> <br />
+      <Link to="/dino-io/">Dino.IO</Link> <br />
     </Layout>
   )
 }
