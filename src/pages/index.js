@@ -6,11 +6,11 @@ import SEO from "../components/layout/seo"
 function IndexPage() {
   return (
     <Layout>
-      <SEO title="Home" />
-      <img src="/images/logos/logo.svg" alt="logo" />
-      <h1>Hi people</h1>
-      <p>Welcome to your new Gatsby site.</p>
-      <Link to="/page-2/">Go to page 2</Link> <br />
+      <SEO title="IO Input Output - Jarassic Systems" />
+      <img src="/images/logos/input-output-logo-mark.svg" alt="input-output-logo" />
+      <h1>IO Input Output: Jarassic Systems</h1>
+      <p>We have just launched our latest addition to our family of products, Dino.IO</p>
+      <Link to="/page-2/">Dino.IO</Link> <br />
     </Layout>
   )
 }

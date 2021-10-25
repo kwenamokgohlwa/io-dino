@@ -1,99 +1,123 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
+<br />
+<br />
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+<div align="center">
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+  <p align="center">
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/kwenamokgohlwa/io-dino/master/static/images/logos/input-output-logo.svg" alt="io-input-output logo svg" width="160" height="160">
+    </a>
+  </p>
 
-## 🚀 Quick start
+  <br />
+  <br />
 
-1.  **Create a Gatsby site.**
+  <p align="center">
+    <a href="#">
+      <img src="https://raw.githubusercontent.com/kwenamokgohlwa/io-dino/master/static/images/logos/dino-logo.svg" alt="dino-io logo svg" width="80" height="80">
+    </a>
+  </p>
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+</div>
+<br />
 
-    ```shell
-    # create a new Gatsby site using the default starter
-    gatsby new designcodeweb https://github.com/mengto/gatsby-starter-designcode
-    ```
+<div algin="center">
+  <h3 align="center">
+    <b>
+      <a href="#">
+        Dino IO Park Monitoring Tool by IO Input Output
+      </a>
+    </b>
+  </h3>
+</div>
+<br />
 
-1.  **Start developing.**
+<!-- DOCUMENTATION -->
 
-    Navigate into your new site’s directory and start it up.
+## IO Input Output: Dino.IO™
 
-    ```shell
-    cd designcodeweb/
-    gatsby develop
-    ```
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/kwenamokgohlwa/ama)
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+![Maintainer](https://img.shields.io/badge/maintainer-kwenamokgohlwa-blue)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
-1.  **Open the source code and start editing!**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales venenatis sem eu blandit. Morbi rutrum eleifend erat, quis vehicula risus cursus at. Praesent tellus sem, congue id enim nec, placerat aliquet ipsum. Aliquam efficitur scelerisque rutrum. Nulla sit amet euismod erat, id tempus libero. Sed in aliquam neque, commodo ornare dolor. Fusce tincidunt facilisis est, ut bibendum massa bibendum ut.
 
-    Your site is now running at `http://localhost:8000`!
+## Setup
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
+You will first have to install [NodeJS](https://nodejs.org/en/) and clone the [project repo](https://github.com/kwenamokgohlwa/io-dino) to get started.
 
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+1. Install Node
 
-## 🧐 What's inside?
+In order to install all the JavaScript libraries, including React, Styled Components, Gatsby and run your local web project, you'll need [NodeJS](https://nodejs.org/en/). The most reliable way to install it is using their download file.
 
-A quick look at the top-level files and directories you'll see in a Gatsby project.
+[https://nodejs.org/en/](https://nodejs.org/en/)
 
-    .
-    ├── node_modules
-    ├── src
-    ├── .gitignore
-    ├── .prettierrc
-    ├── gatsby-browser.js
-    ├── gatsby-config.js
-    ├── gatsby-node.js
-    ├── gatsby-ssr.js
-    ├── LICENSE
-    ├── package-lock.json
-    ├── package.json
-    └── README.md
+2.1. From your Terminal - Clone the repository.
 
-1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
+```
+git clone https://github.com/kwenamokgohlwa/io-dino.git
+```
 
-2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
+2.2. From your Terminal - Get into the Main Folder (io-dino) & Download Dependencies.
 
-3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
+```
+cd io-dino
+npm install
+```
 
-4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
+3. From your Terminal - Install Gatsby CLI globally then Run the Development Environment.
 
-5.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.com/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
+Gatsby is a framework built on top of React with essential features.
 
-6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.com/docs/gatsby-config/) for more detail).
+```
+npm install -g gatsby-cli
+gatsby develop
 
-7.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.com/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
+```
 
-8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.com/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
+## Approach
 
-9.  **`LICENSE`**: This Gatsby starter is licensed under the 0BSD license. This means that you can see this file as a placeholder and replace it with your own license.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in aliquam neque, commodo ornare dolor. Morbi rutrum eleifend erat, quis vehicula risus cursus at.
 
-10. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
+1. Morbi rutrum eleifend erat, quis vehicula risus cursus at.
+2. Praesent tellus sem, congue id enim nec, placerat aliquet ipsum. Aliquam efficitur scelerisque rutrum.
+3. Nunc sodales venenatis sem eu blandit.
+4. Nulla sit amet euismod erat, id tempus libero.
+5. Fusce tincidunt facilisis est, ut bibendum massa bibendum ut.
 
-11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
+## Learnings
 
-12. **`README.md`**: A text file containing useful reference information about your project.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in aliquam neque, commodo ornare dolor. Morbi rutrum eleifend erat, quis vehicula risus cursus at.
 
-## 🎓 Learning Gatsby
+1. Morbi rutrum eleifend erat, quis vehicula risus cursus at.
+2. Praesent tellus sem, congue id enim nec, placerat aliquet ipsum. Aliquam efficitur scelerisque rutrum.
+3. Nunc sodales venenatis sem eu blandit.
+4. Nulla sit amet euismod erat, id tempus libero.
+5. Fusce tincidunt facilisis est, ut bibendum massa bibendum ut.
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/). Here are some places to start:
+## Improvements (Solution)
 
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in aliquam neque, commodo ornare dolor. Morbi rutrum eleifend erat, quis vehicula risus cursus at.
 
-- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+1. Morbi rutrum eleifend erat, quis vehicula risus cursus at.
+2. Praesent tellus sem, congue id enim nec, placerat aliquet ipsum. Aliquam efficitur scelerisque rutrum.
+3. Nunc sodales venenatis sem eu blandit.
+4. Nulla sit amet euismod erat, id tempus libero.
+5. Fusce tincidunt facilisis est, ut bibendum massa bibendum ut.
 
-## 💫 Deploy
+## Improvements (Problem)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in aliquam neque, commodo ornare dolor. Morbi rutrum eleifend erat, quis vehicula risus cursus at.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
+1. Morbi rutrum eleifend erat, quis vehicula risus cursus at.
+2. Praesent tellus sem, congue id enim nec, placerat aliquet ipsum. Aliquam efficitur scelerisque rutrum.
+3. Nunc sodales venenatis sem eu blandit.
+4. Nulla sit amet euismod erat, id tempus libero.
+5. Fusce tincidunt facilisis est, ut bibendum massa bibendum ut.
 
-<!-- AUTO-GENERATED-CONTENT:END -->
+<!-- CONTACT -->
+
+## Contact
+
+[Kwena Mokgohlwa](https://linkedin.com/in/kwenamokgohlwa) – [kwena@kwena.io](mailto:kwena@kwena.io) / [kwena@innogine.io](mailto:kwena@innogine.io)
