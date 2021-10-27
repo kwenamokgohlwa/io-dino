@@ -5,7 +5,7 @@ import SEO from "../components/layout/seo"
 function NotFoundPage() {
   return (
     <Layout>
-      <SEO title="404: Not found" />
+      <SEO title="404: Not found" description="Page not found" author="Kwena Mokgohlwa @ IO Input Output, Inc."/>
       <h1>404: Not Found</h1>
       <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
     </Layout>
