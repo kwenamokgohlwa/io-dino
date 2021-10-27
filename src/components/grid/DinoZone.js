@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react"
 import styled from "styled-components"
 
-export default function DinoZone({ maintain, safe }) {
+export default function DinoZone({ location, maintain, safe }) {
   const [maintenance, setMaintenance] = useState("")
   useEffect(() => {
     if (maintain === undefined) {
@@ -36,5 +36,5 @@ const Zone = styled.div`
   background-position: center;
   background-color: ${props => props.safety};
 
-  border: 2.11498px solid #491eb8;
+  border: 3px solid #491eb8;
 `
