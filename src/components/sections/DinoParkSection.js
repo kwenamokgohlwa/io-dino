@@ -1,18 +1,18 @@
 import React from "react"
 import styled from "styled-components"
-import DinoGrid from "../grid/DinoGrid"
+import DinoPark from "../grid/DinoPark"
 
-function DinoGridSection() {
+function DinoParkSection() {
   return (
     <Wrapper>
       <ContentWrapper>
-        <DinoGrid />
+        <DinoPark />
       </ContentWrapper>
     </Wrapper>
   )
 }
 
-export default DinoGridSection
+export default DinoParkSection
 
 const Wrapper = styled.div`
   overflow: hidden;
