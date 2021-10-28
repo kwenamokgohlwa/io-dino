@@ -4,22 +4,22 @@ import styled from "styled-components"
 export default function DinoZone({ location, maintain, safe }) {
   const [maintenance, setMaintenance] = useState("")
   useEffect(() => {
-    if (maintain === undefined) {
+    if (maintain === "ignore") {
       setMaintenance("")
-    } else if (maintain !== undefined && maintain === true) {
+    } else if (maintain !== "ignore" && maintain === true) {
       setMaintenance("/images/icons/maintain.svg")
-    } else if (maintain !== undefined && maintain === false) {
+    } else if (maintain !== "ignore" && maintain === false) {
       setMaintenance("")
     }
   }, [maintain])
 
   const [safety, setSafety] = useState(`#a999ec`)
   useEffect(() => {
-    if (safe === undefined) {
+    if (safe === "ignore") {
       setSafety(`#a999ec`)
-    } else if (safe !== undefined && safe === true) {
+    } else if (safe !== "ignore" && safe === true) {
       setSafety(`#A37834`)
-    } else if (safe !== undefined && safe === false) {
+    } else if (safe !== "ignore" && safe === false) {
       setSafety(`#280049`)
     }
   }, [safe])

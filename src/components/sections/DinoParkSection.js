@@ -1,12 +1,12 @@
 import React from "react"
 import styled from "styled-components"
-import DinoPark from "../grid/DinoPark"
+import DinoParkData from "../grid/DinoParkData"
 
 function DinoParkSection() {
   return (
     <Wrapper>
       <ContentWrapper>
-        <DinoPark />
+        <DinoParkData />
       </ContentWrapper>
     </Wrapper>
   )
